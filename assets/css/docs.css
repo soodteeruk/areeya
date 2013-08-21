@@ -1,0 +1,31 @@
+/* Top nav and header
+-------------------------------------------------- */
+
+.bs-docs-nav {
+  background-color: #d76b00;
+  border-color: #c16100;
+}
+.bs-docs-nav .navbar-collapse {
+  border-color: #c16100;
+}
+.bs-docs-nav .navbar-brand {
+  color: #fff;
+}
+.bs-docs-nav .navbar-nav > li > a {
+  color: #ffe7ce;
+}
+.bs-docs-nav .navbar-nav > li > a:hover {
+  color: #fff;
+}
+.bs-docs-nav .navbar-nav > .active > a,
+.bs-docs-nav .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #c16100;
+}
+.bs-docs-nav .navbar-toggle {
+  border-color: #d76b00;
+}
+.bs-docs-nav .navbar-toggle:hover {
+  background-color: #c16100;
+  border-color: #c16100;
+}
